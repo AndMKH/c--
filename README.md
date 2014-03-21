@@ -1,4 +1,4 @@
-c--
+c++ Snake 
 ===
 
-Snake c++
+Snake c++ OpenGL
